@@ -20,3 +20,17 @@ p.intro{
   font-size: 25px;
   letter-spacing: .10em;
 }
+
+.aboutme {
+  color: green;
+  line-height: 30px;
+  letter-spacing: .3em;
+  font-family: 'Didot';
+  background-color: purple;
+  }
+.important {
+  color: red;
+  font-size: 40px;
+  font-style: bold;
+  font-family: 'Helvetica';
+}
