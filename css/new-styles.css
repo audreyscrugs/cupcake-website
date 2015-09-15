@@ -26,11 +26,26 @@ p.intro{
   line-height: 30px;
   letter-spacing: .3em;
   font-family: 'Didot';
-  background-color: purple;
+  /*background-color: purple;*/
   }
 .important {
   color: red;
   font-size: 40px;
   font-style: bold;
   font-family: 'Helvetica';
+}
+
+.main{
+  float: left;
+}
+
+.sidebar {
+  float: right;
+  background-color: pink;
+}
+
+.column{
+  width: 100px;
+  float: left;
+  background-color: purple;
 }
